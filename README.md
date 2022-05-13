@@ -1,6 +1,6 @@
 # FB_MLE_week3
 
-## Objectives
+## Assigment Goals for today
 
 At the end of this session, you will be able to
 
